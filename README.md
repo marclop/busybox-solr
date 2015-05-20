@@ -1,0 +1,1 @@
+# Docker reopository for busybox solr
